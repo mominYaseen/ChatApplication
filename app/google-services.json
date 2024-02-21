@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059007599417",
+    "project_id": "chatapp-22698",
+    "storage_bucket": "chatapp-22698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059007599417:android:492c913445b2e4c6800ee8",
+        "android_client_info": {
+          "package_name": "com.example.mominchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059007599417-1i35bfppp5l8ii3tp635cgmcdsc9i6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycO4P6VzfkZywAPVY_ub5AwsWg7g-AkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059007599417-1i35bfppp5l8ii3tp635cgmcdsc9i6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

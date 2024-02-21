@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MominChatApplication</string>
+    <string name="signUp" />
+    <string name="hyperlink"> <a href="https://www.linkedin.com/in/momin-yaseen-8039b1248/">Momin</a></string>
+</resources>
